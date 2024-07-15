@@ -1,0 +1,14 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ùÇº¬ûÿÿÿÿ8Öêıìî1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÍÜ’ëûÿÿÿÿ8×êıìî1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Õ¾Èèüÿÿÿÿ8Øêıìî1
+L	java:S106"+Replace this use of System.out by a logger.(ùÇº¬ûÿÿÿÿ8›ëıìî1
+L	java:S106"+Replace this use of System.out by a logger.(ÍÜ’ëûÿÿÿÿ8ëıìî1
+L	java:S106"+Replace this use of System.out by a logger.(Õ¾Èèüÿÿÿÿ8ëıìî1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8£ëıìî1
+e
+java:S1128"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ8£ëıìî1

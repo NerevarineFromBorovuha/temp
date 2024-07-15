@@ -1,0 +1,9 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(§äîÜ8‘—¡‰ñ1J$6d97fb69-f726-4067-994a-cdba5a0a58f8
+r	java:S106"+Replace this use of System.out by a logger.(æŸ“¸ûÿÿÿÿ8’—¡‰ñ1J$001d06de-8c3e-4de7-b2e5-5d8ef811813c
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‘­¡‰ñ1J$cf9f68d4-c1d7-42ac-bf61-6c9967c4b041
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‘­¡‰ñ1J$1b85621a-4ee0-425e-8df8-c2a445b0a98e
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‘­¡‰ñ1J$9fe51f55-b1a7-44a6-9327-7ad33ebf57d1

@@ -1,0 +1,13 @@
+
+|
+java:S1854"9Remove this useless assignment to local variable "items".(º”à¢8ìò€­î1J$092c1640-c7d6-48ca-b56e-1402690b9be9
+m
+java:S1481"*Remove this unused "items" local variable.(º”à¢8ñò€­î1J$32127068-9539-410e-a98d-2295e8143aa9
+y
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8òò€­î1J$abc8b895-03e0-4f09-9df9-66ab35de00e9
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8òò€­î1J$8e1d0280-e2bc-4197-8648-2a249e8e2ede
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8óò€­î1J$01dafaf6-73b0-4b16-842b-46bb9b7840c2
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8óò€­î1J$a74f96d0-3e0a-4d68-bdf3-98ce4297fe94

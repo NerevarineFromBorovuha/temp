@@ -1,0 +1,9 @@
+
+|
+java:S1854"9Remove this useless assignment to local variable "items".(º”à¢8óó€­î1J$01ab0968-65fe-4fb5-91a5-f8a79f11ed8b
+m
+java:S1481"*Remove this unused "items" local variable.(º”à¢8úó€­î1J$90055333-0789-4f7b-9054-2a2694c75557
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(¢Ã‚¤ûÿÿÿÿ8ûó€­î1J$09754a84-8dc4-46c5-9103-4f7aee87ff9d
+l	java:S106."+Replace this use of System.out by a logger.(¹ÖŠ\8‹ô€­î1J$1775d74c-0144-4bb9-9667-868346e30ff8
+p
+java:S1144""-Remove this unused private "forItem1" method.(Ú„°8ô€­î1J$86002642-ad03-44fa-9fe1-bb53570143d6
